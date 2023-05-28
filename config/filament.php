@@ -328,6 +328,7 @@ return [
             SubstituteBindings::class,
             DispatchServingFilamentEvent::class,
             MirrorConfigToSubpackages::class,
+            \Kenepa\TranslationManager\Http\Middleware\SetLanguage::class,
         ],
     ],
 
