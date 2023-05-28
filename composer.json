@@ -9,9 +9,11 @@
         "filament/filament": "^2.17",
         "filament/spatie-laravel-translatable-plugin": "^2.17",
         "guzzlehttp/guzzle": "^7.2",
+        "kenepa/translation-manager": "^3.0",
         "laravel/framework": "^10.10",
         "laravel/sanctum": "^3.2",
-        "laravel/tinker": "^2.8"
+        "laravel/tinker": "^2.8",
+        "statikbe/laravel-filament-chained-translation-manager": "^1.1"
     },
     "require-dev": {
         "doctrine/dbal": "^3.6",
